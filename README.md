@@ -1,5 +1,5 @@
 # MediaSorter
 # Dependancy
-exifread
-libxmp
-  pip install python-xmp-toolkit
+- exifread
+- libxmp
+  * pip install python-xmp-toolkit
